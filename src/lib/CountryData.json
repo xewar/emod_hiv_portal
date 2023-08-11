@@ -10,7 +10,7 @@
                 "ARTNumber": "1,000,000"
             },
  "fileExt":"/Kenya/Kenya_ART_number",
-            "imgCaption":"Placeholder image. This could be an interactive graphic (or carousel) with some of the country's model results.",
+            "imgcaption":"Placeholder image. This could be an interactive graphic (or carousel) with some of the country's model results.",
             "about":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
             "countrySVG":"/Kenya/ke.svg",
             "links":[{
@@ -44,7 +44,7 @@
             "about":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
             "countrySVG":"/Malawi/mw.svg",
             "links":[{
-                "linkName":"InputFiles",
+                "linkName":"Input Files",
                 "url":"https://www.dropbox.com",
                 "linkDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore."
             },
@@ -74,7 +74,7 @@
             "about":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
             "countrySVG":"/eSwatini/sz.svg",
             "links":[{
-                "linkName":"InputFiles",
+                "linkName":"Input Files",
                 "url":"https://www.dropbox.com",
                 "linkDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore."
             },
@@ -103,7 +103,7 @@
             "about":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
             "countrySVG":"/Zambia/zm.svg",
             "links":[{
-                "linkName":"InputFiles",
+                "linkName":"Input Files",
                 "url":"https://www.dropbox.com",
                 "linkDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore."
             },
@@ -133,7 +133,7 @@
             "about":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
             "countrySVG":"/Zimbabwe/zw.svg",
             "links":[{
-                "linkName":"InputFiles",
+                "linkName":"Input Files",
                 "url":"https://www.dropbox.com",
                 "linkDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore."
             },
@@ -163,7 +163,7 @@
             "about":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
             "countrySVG":"/SouthAfrica/za.svg",
             "links":[{
-                "linkName":"InputFiles",
+                "linkName":"Input Files",
                 "url":"https://www.dropbox.com",
                 "linkDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore."
             },

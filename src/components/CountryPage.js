@@ -5,17 +5,16 @@ const CountryPage = ({ currentCountry }) => {
   );
 
   return (
-    <div className="countryContent flex flex-col  gap-10 bg-white py-12 px-16 pr-24 ">
+    <div className="countryContent flex flex-col  gap-10 bg-white py-9 px-16 pr-24 ">
       <div className="text-6xl text-blue-300 font-semibold uppercase">
         {country.countryName}
       </div>
-      <div className="aboutAndSVG flex gap-16 justify-start items-start">
-        {/* <div className="bg-slate-400 w-1/2 h-auto"></div> */}
-        <div className="imageAndCaption w-1/2">
+      <div className="aboutAndSVG flex md:flex-col lg:flex-row gap-16 justify-start items-start  pt-8 p-4">
+        <div className="imageAndCaption md:w-full lg:w-1/2 self-stretch">
           <img src={`${country.fileExt}.jpg`} alt={country.countryName} />
           <div className="caption px-8 text-sm">{country.imgcaption}</div>
         </div>
-        <div className="about w-1/2 pt-4 flex flex-col gap-4">
+        <div className="about ml-12 md:w-full lg:w-1/2 flex flex-col gap-4">
           <div>
             <div className="sectionTitle">
               About {country.countryName}'s model
@@ -32,8 +31,8 @@ const CountryPage = ({ currentCountry }) => {
         </div>
       </div>
       <div className="countryBottom flex gap-10">
-        <div className="metadata display flex flex-col gap-4 w-1/2">
-          <div className="sectionTitle   py-2 px-4 bg-blue-300 uppercase font-semibold text-lg">
+        <div className="metadata display flex flex-col gap-4 w-1/2  mr-4">
+          <div className="sectionTitle  py-2 px-4 bg-blue-300 uppercase font-semibold text-lg">
             Model Metadata
           </div>
           <table className=" text-left bg-slate-50 ">
@@ -54,7 +53,7 @@ const CountryPage = ({ currentCountry }) => {
           <div className="flex gap-3 flex-col">
             {country.links.map((link) => (
               <button
-                className="p-3 bg-slate-100"
+                className="p-3 bg-slate-100 hover:bg-blue-300"
                 key={link.linkName}
                 href={link.url}
               >
