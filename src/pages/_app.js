@@ -9,6 +9,7 @@ export default function App({ Component, pageProps }) {
     <div className="appDiv ">
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>EMOD-HIV Data Portal</title>
       </Head>
       <div className="flex flex-col md:flex-row font-synthese h-100 leading-7 text-slate-600 ">
         <Nav current={current} setCurrent={setCurrent} />
