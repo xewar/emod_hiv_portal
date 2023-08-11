@@ -6,7 +6,7 @@ export default function Document() {
       <Head>
         <link rel="stylesheet" href="https://use.typekit.net/oun4msd.css" />
       </Head>
-      <body>
+      <body className="">
         <Main />
         <NextScript />
       </body>

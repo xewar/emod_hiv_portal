@@ -4,13 +4,14 @@
             "countryName":"Kenya",
             "metadata":{
                 "lastUpdated":"2021",
-                "siteName":"Nyanza",
-                "population":"2697858",
+                "siteName":"Name of Site",
+                "population":"2,500,000",
                 "HIVPrevalenceRate": "5%",
                 "ARTNumber": "1,000,000"
             },
-            "fileExt":"/Kenya/Kenya_ART_number",
-            "about":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+ "fileExt":"/Kenya/Kenya_ART_number",
+            "imgCaption":"Placeholder image. This could be an interactive graphic (or carousel) with some of the country's model results.",
+            "about":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
             "countrySVG":"/Kenya/ke.svg",
             "links":[{
                 "linkName":"Input Files",
@@ -33,13 +34,14 @@
             "countryName":"Malawi",
             "metadata":{
                 "lastUpdated":"2021",
-                "siteName":"Nyanza",
-                "population":"2697858",
+                "siteName":"Name of Site",
+                "population":"2,500,000",
                 "HIVPrevalenceRate": "5%",
                 "ARTNumber": "1,000,000"
             },
             "fileExt":"/Kenya/Kenya_ART_number",
-            "about":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "imgcaption":"Placeholder image. This could be an interactive graphic (or carousel) with some of the country's model results.",
+            "about":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
             "countrySVG":"/Malawi/mw.svg",
             "links":[{
                 "linkName":"InputFiles",
@@ -62,13 +64,14 @@
             "countryName":"eSwatini",
             "metadata":{
                 "lastUpdated":"2021",
-                "siteName":"Nyanza",
-                "population":"2697858",
+                "siteName":"Name of Site",
+                "population":"2,500,000",
                 "HIVPrevalenceRate": "5%",
                 "ARTNumber": "1,000,000"
             },
             "fileExt":"/Kenya/Kenya_ART_number",
-            "about":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "imgcaption":"Placeholder image. This could be an interactive graphic (or carousel) with some of the country's model results.",
+            "about":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
             "countrySVG":"/eSwatini/sz.svg",
             "links":[{
                 "linkName":"InputFiles",
@@ -90,13 +93,14 @@
             "countryName":"Zambia",
             "metadata":{
                 "lastUpdated":"2021",
-                "siteName":"Nyanza",
-                "population":"2697858",
+                "siteName":"Name of Site",
+                "population":"2,500,000",
                 "HIVPrevalenceRate": "5%",
                 "ARTNumber": "1,000,000"
             },
-            "fileExt":"/Kenya/Kenya_ART_number",
-            "about":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+ "fileExt":"/Kenya/Kenya_ART_number",
+            "imgcaption":"Placeholder image. This could be an interactive graphic (or carousel) with some of the country's model results.",
+            "about":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
             "countrySVG":"/Zambia/zm.svg",
             "links":[{
                 "linkName":"InputFiles",
@@ -119,13 +123,14 @@
             "countryName":"Zimbabwe",
             "metadata":{
                 "lastUpdated":"2021",
-                "siteName":"Nyanza",
-                "population":"2697858",
+                "siteName":"Name of Site",
+                "population":"2,500,000",
                 "HIVPrevalenceRate": "5%",
                 "ARTNumber": "1,000,000"
             },
-            "fileExt":"/Kenya/Kenya_ART_number",
-            "about":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+ "fileExt":"/Kenya/Kenya_ART_number",
+            "imgcaption":"Placeholder image. This could be an interactive graphic (or carousel) with some of the country's model results.",
+            "about":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
             "countrySVG":"/Zimbabwe/zw.svg",
             "links":[{
                 "linkName":"InputFiles",
@@ -148,13 +153,14 @@
             "countryName":"South Africa",
             "metadata":{
                 "lastUpdated":"2021",
-                "siteName":"Nyanza",
-                "population":"2697858",
+                "siteName":"Name of Site",
+                "population":"2,500,000",
                 "HIVPrevalenceRate": "5%",
                 "ARTNumber": "1,000,000"
             },
-            "fileExt":"/Kenya/Kenya_ART_number",
-            "about":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+ "fileExt":"/Kenya/Kenya_ART_number",
+            "imgcaption":"Placeholder image. This could be an interactive graphic (or carousel) with some of the country's model results.",
+            "about":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
             "countrySVG":"/SouthAfrica/za.svg",
             "links":[{
                 "linkName":"InputFiles",

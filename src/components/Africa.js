@@ -3,6 +3,8 @@ import { useState } from "react";
 function Africa({ setCurrent, hoveredCountry, setHoveredCountry }) {
   const handleCountryMouseEnter = (event) => {
     const countryName = event.target.getAttribute("data-name");
+    console.log(hoveredCountry, countryName);
+
     setHoveredCountry(countryName);
   };
   const handleCountryMouseLeave = () => {
@@ -23,7 +25,7 @@ function Africa({ setCurrent, hoveredCountry, setHoveredCountry }) {
       fill: #fff;
     }
     #bigMap .partnerCountry {
-      fill: #eff6ff;
+      fill: var(--partner-country);
     }
     #bigMap .partnerCountry.hovered {
       fill: var(--highlight-color);

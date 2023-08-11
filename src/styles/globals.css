@@ -4,7 +4,10 @@
 
 :root {
   --stroke-color: #64748b;
-  --highlight-color: #64748b;
+  /* change the highlight color for countries here */
+  --highlight-color: #93c5fd;
+  --partner-country: #e2e8f0;
+  --text-highlight: white;
   --blue-300: #93c5fd;
   --slate-400: #94a3b8;
   --slate-500: #64748b;
@@ -17,23 +20,23 @@ body,
 html {
   margin: 0;
   padding: 0;
-  background-color: #cbd5e1;
-  padding-bottom: 200px;
+  font-weight: 300;
 }
 
 html {
-  min-height: 100%;
   overflow-y: scroll;
+  display: flex;
 }
 body {
-  min-height: 100%;
+  flex: 1;
+  height: max-content;
 }
 
 .siteTitle {
-  color: var(--slate-700);
 }
+
 .sectionTitle {
-  color: var(--slate-600);
+  font-weight: 400;
 }
 
 .textBox {
@@ -44,9 +47,8 @@ body {
   color: var(--stroke-color);
   font-weight: 500;
   padding: 0.5rem 0.75rem;
-  width: 9.5rem;
   border-radius: 0.1rem;
-  background-color: white;
+
   text-transform: uppercase;
   letter-spacing: 0.05em;
 }
@@ -54,7 +56,7 @@ body {
 /* Buttons when the country is highlighted */
 div .countryHighlight {
   background-color: var(--highlight-color);
-  color: white;
+  color: var(--text-highlight);
 }
 
 /* All links */

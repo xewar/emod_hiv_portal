@@ -1,19 +1,17 @@
 import Link from "next/link";
 const About = () => {
   return (
-    <div className="flex flex-col gap-6 ">
-      <div className="about  textBox flex flex-col gap-6 p-8 bg-white">
+    <div className="about flex flex-col bg-white  md:py-20">
+      <div className=" mainTextBox flex flex-col gap-6 p-8  rounded">
         <div className="section flex flex-col gap-2">
-          <div className="sectionTitle uppercase font-semibold text-lg">
-            About this site
-          </div>
+          <div className="sectionTitle uppercase  text-lg">About this site</div>
           <div>
-            Use this site to find and access country-specific files for the EMOD
-            HIV model. To get started, click on a country.
+            Use this site to find and access country-specific files for the
+            EMOD-HIV model. To get started, click on a country.
           </div>
         </div>
         <div className="section flex flex-col gap-2">
-          <div className="sectionTitle uppercase font-semibold text-lg ">
+          <div className="sectionTitle uppercase  text-lg ">
             The full documentation
           </div>
           <div className="">
@@ -28,9 +26,7 @@ const About = () => {
           </div>
         </div>
         <div className="section flex flex-col gap-2 ">
-          <div className="sectionTitle uppercase font-semibold text-lg">
-            About EMOD
-          </div>
+          <div className="sectionTitle uppercase  text-lg">About EMOD</div>
           <div className="flex flex-col gap-4">
             <div>
               EMOD, is an agent-based model (ABM) that simulates the
@@ -48,7 +44,7 @@ const About = () => {
         </div>
       </div>
 
-      <div className="credits  textBox p-8 rounded bg-white">
+      <div className="credits  textBox mx-8 p-8  rounded bg-slate-200">
         EMOD was developed and is maintained by{" "}
         <Link href="https://www.idmod.org/">
           the Institute for Disease Modeling (IDM)

@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export default function Home({ current }) {
   return (
-    <div className="flex flex-1  w-screen h-screen flex-col md:flex-row px-16 py-20">
+    <div className="flex flex-1 flex-col md:flex-row md:px-16">
       <div className="">
         {current === "about" ? (
           <About />

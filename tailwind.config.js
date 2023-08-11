@@ -9,6 +9,7 @@ module.exports = {
     extend: {
       fontFamily: {
         "neue-haas": ["neue-haas-grotesk-display", "sans-serif"],
+        synthese: ["synthese", "sans-serif"],
       },
     },
   },
