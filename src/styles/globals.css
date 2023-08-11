@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --stroke-color: #64748b;
+  --highlight-color: #64748b;
+  --blue-300: #93c5fd;
+  --slate-400: #94a3b8;
+  --slate-500: #64748b;
+  --slate-600: #475569;
+  --slate-700: #334155;
+  --slate-800: #1e293b;
+}
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+  background-color: #cbd5e1;
+  padding-bottom: 200px;
+}
+
+html {
+  min-height: 100%;
+  overflow-y: scroll;
+}
+body {
+  min-height: 100%;
+}
+
+.siteTitle {
+  color: var(--slate-700);
+}
+.sectionTitle {
+  color: var(--slate-600);
+}
+
+.textBox {
+}
+
+/* Country buttons */
+.countryButton {
+  color: var(--stroke-color);
+  font-weight: 500;
+  padding: 0.5rem 0.75rem;
+  width: 9.5rem;
+  border-radius: 0.1rem;
+  background-color: white;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* Buttons when the country is highlighted */
+div .countryHighlight {
+  background-color: var(--highlight-color);
+  color: white;
+}
+
+/* All links */
+a {
+  font-weight: 600;
+}
