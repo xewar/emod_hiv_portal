@@ -36,9 +36,7 @@ const Nav = ({ current, setCurrent }) => {
       <div className={`titleAndCountryMap ${collapsed ? "" : ""}`}>
         <Link
           className={`siteTitle p-6 flex flex-col  font-semibold   ${
-            collapsed
-              ? "hover:bg-[var(--highlight-color)] text-3xl"
-              : "text-5xl"
+            collapsed ? "hover:bg-slate-100 text-3xl" : "text-5xl"
           }`}
           href="/"
           onClick={() => setCurrent("about")}
