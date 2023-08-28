@@ -1,10 +1,10 @@
 # EMOD-HIV Portal
 
-This project creates a web portal for accessing EMOD-HIV country files.
+This project creates a web portal for accessing EMOD-HIV country files and is a collaboration with the research laboratory of Dr. Anna Bershteyn at NYU's Department of Population Health. 
 
 ## Server instructions
 
-To view locally, set the development server.
+To view locally, set the development server. You can also see an initial prototype [here](https://emod-hiv-portal.vercel.app/).
 
 ### Installation
 
