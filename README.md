@@ -1,6 +1,6 @@
 # EMOD-HIV Portal
 
-This project creates a web portal for accessing EMOD-HIV country files and is a collaboration with the research laboratory of Dr. Anna Bershteyn at NYU's Department of Population Health. 
+This is a work in progress that creates a web portal for accessing EMOD-HIV country files. The project is for and in collaboration with the research laboratory of Dr. Anna Bershteyn at NYU Langone's Department of Population Health. 
 
 ## Server instructions
 
